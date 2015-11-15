@@ -1,0 +1,25 @@
+{
+  "name": "andrew-howard",
+  "version": "1.0.0",
+  "description": "gulp-comp",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andrewhoward.github.io"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "andrew howard",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-ruby-sass": "^2.0.5",
+    "gulp-sass": "^2.1.0",
+    "gulp-uglify": "^1.5.1"
+  }
+}
